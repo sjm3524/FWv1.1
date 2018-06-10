@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "986627149519",
+    "firebase_url": "https://stick-fings.firebaseio.com",
+    "project_id": "stick-fings",
+    "storage_bucket": "stick-fings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986627149519:android:8e7d61f1af98a5c2",
+        "android_client_info": {
+          "package_name": "com.example.stephen.firewire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986627149519-272bdhf4lkd10eg62deu701pnmonpaff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stephen.firewire",
+            "certificate_hash": "eee3c130f4e00dcf6eb8a95a8666383cfa2044d1"
+          }
+        },
+        {
+          "client_id": "986627149519-oj269suih0f098fc56kmra48jvme5oot.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "986627149519-oj269suih0f098fc56kmra48jvme5oot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD179E67mnrrS5-nktZ-E5l_ILojAlXrFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986627149519-oj269suih0f098fc56kmra48jvme5oot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

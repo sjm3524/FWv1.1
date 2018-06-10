@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="types">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+
+    <string-array name="clock">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+
+
+</resources>
